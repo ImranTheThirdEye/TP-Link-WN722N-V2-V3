@@ -1,4 +1,5 @@
 sudo apt update && apt upgrade -y
 sudo apt install -y realtek-rtl8188eus-dkms
 
-use wifite to enable monitor mode and perform attack
+use wifite to enable monitor mode and perform attack 100% working tested
+
